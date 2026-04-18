@@ -1,3 +1,3 @@
 # meta-version-control-forking-lab
-taihongky
-meta
+Name: taihongky  
+Certificate: meta-version-control
